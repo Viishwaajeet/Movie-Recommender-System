@@ -6,7 +6,7 @@ This repository contains a simple content-based movie recommendation system buil
 
 In a world where countless movies are released and available on various platforms, it can be challenging to decide what to watch next. This Movie Recommender System helps users discover new films similar to the ones they already love. By analyzing movie attributes and computing similarity scores, it can generate personalized suggestions with a single click.
 
-A live demo of the app is available at: (📽️ Movie Recommender)[https://vishwajeet-movie-recommender.streamlit.app/]
+A live demo of the app is available at: [📽️ Movie Recommender](https://vishwajeet-movie-recommender.streamlit.app/)
 
 ## Features
 
